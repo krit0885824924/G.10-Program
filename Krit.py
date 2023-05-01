@@ -1,0 +1,2 @@
+print('krit')
+print('gun')
